@@ -8,3 +8,4 @@ spec:
   type: team
   lifecycle: unknown
   owner: pntest
+  children: []
