@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: admin
+  annotations:
+    github.com/project-slug: sikongyuxuan/admin
+spec:
+  type: team
+  lifecycle: unknown
+  owner: pntest
